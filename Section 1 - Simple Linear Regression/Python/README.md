@@ -25,9 +25,13 @@ Link to collab : [https://colab.research.google.com/drive/1foWfqpIeaIXKAfKW1mIPt
 
 On running the Model you will see simillar results as shown below with our given dataset. If you wish to upload your own dataset you can rename and restructure that dataset as ours and upload it to session to view results.
 
-### Final Result
+### Training Result
 
-<p align="center"><img src="docs/img/simple_linear.png" alt="slr"></p>
+<p align="center"><img src="docs/img/simple_linear_train.png" alt="slr"></p>
+
+### Test Result
+
+<p align="center"><img src="docs/img/simple_linear_test.png" alt="slr"></p>
 
 ## Contribute
 
