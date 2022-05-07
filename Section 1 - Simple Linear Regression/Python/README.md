@@ -27,11 +27,11 @@ On running the Model you will see simillar results as shown below with our given
 
 ### Training Result
 
-<p align="center"><img src="docs/img/simple_linear_train.png" alt="slr"></p>
+<p align="center"><img src="/docs/img/simple_linear_train.png" alt="slr"></p>
 
 ### Test Result
 
-<p align="center"><img src="docs/img/simple_linear_test.png" alt="slr"></p>
+<p align="center"><img src="/docs/img/simple_linear_test.png" alt="slr"></p>
 
 ## Contribute
 
