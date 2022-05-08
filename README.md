@@ -15,7 +15,7 @@ Second, in some situations regression analysis can be used to infer causal relat
 ## Our Work
 
 Here in this repository I have implemented many Regression techniques for different use cases and real life computation scenarios.
-Foloowing are the different implementations:
+Following are the different implementations:
 
  - [Single Linear Regression](/Section%201%20-%20Simple%20Linear%20Regression/)
  - [Multiple Linear Regression](/Section%202%20-%20Multiple%20Linear%20Regression/)
